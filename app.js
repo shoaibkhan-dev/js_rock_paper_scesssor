@@ -23,8 +23,8 @@ function playGame(userChoice) {
   }
 
   try {
-    
+    console.log(true)
   } catch (error) {
-    
+    console.log(error)
   }
   
