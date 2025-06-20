@@ -21,4 +21,10 @@ function playGame(userChoice) {
   
     document.getElementById("winner").textContent = result
   }
+
+  try {
+    
+  } catch (error) {
+    
+  }
   
