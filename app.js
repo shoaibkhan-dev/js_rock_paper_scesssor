@@ -22,9 +22,5 @@ function playGame(userChoice) {
     document.getElementById("winner").textContent = result
   }
 
-  try {
-    console.log(true)
-  } catch (error) {
-    console.log(error)
-  }
+
   
